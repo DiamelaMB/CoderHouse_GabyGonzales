@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;  
+}
+body{
+    background-color: #ffeeeb;
+}
+header{
+    height: 80px;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #ffeeeb;
+    
+}
+
+
+
+
+
+/*colores de las páginas*/  
+#color_inicio{
+    background-color: #61255f;
+    color: #ffeeeb;
+}
+#color_coaching{
+    background-color: #25624c;
+    color: #ffeeeb;
+}
+#color_mindfulness{
+    background-color: #ff9f9a;
+    color: #ffeeeb;
+}
+#color_retiros{
+    background-color: #7da7f1;
+    color: #ffeeeb;
+}
+#color_sobremi{
+    background-color: #cc9fd6;
+    color: #ffeeeb;
+}
+
+/*5: Sobre mi*/
+#background_sobremi{
+    background-image: url("../img/5background.jpg");
+}
+
+footer{
+    justify-content: end;
+}
